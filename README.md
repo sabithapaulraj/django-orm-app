@@ -62,6 +62,13 @@ admin.site.register(GolfClubMember,GolfClubAdmin)
 
 ## OUTPUT
 
+![Screenshot (62)](https://user-images.githubusercontent.com/118343379/208137890-4c11d1d6-35d7-42fd-908e-27b140887060.png)
+![Screenshot (63)](https://user-images.githubusercontent.com/118343379/208137977-b1a0c0f4-2f97-46b4-88be-98fbf765a279.png)
+![Screenshot (64)](https://user-images.githubusercontent.com/118343379/208138078-302d2d6f-0805-43e4-9a31-bdae14142a07.png)
+![Screenshot (65)](https://user-images.githubusercontent.com/118343379/208138134-bfd853ad-48c1-4975-a931-5b857f8c753e.png)
+![Screenshot (66)](https://user-images.githubusercontent.com/118343379/208138177-0a0546de-0894-4319-8261-7279687071f3.png)
+
+
 
 
 ## RESULT
