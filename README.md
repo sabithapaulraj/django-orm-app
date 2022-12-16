@@ -4,7 +4,13 @@
 To develop a Django application to store and retrieve data from a database using Object Relational Mapping(ORM).
 
 ## Entity Relationship Diagram
+<<<<<<< HEAD
  
+=======
+![Screenshot (60)](https://user-images.githubusercontent.com/118343379/207867577-fe26a3c6-45a7-44c2-bd5a-d7dafd8e5ced.png)
+
+
+>>>>>>> 4ad5f7603170cdcb3ffcc918e291a068e2fe3af3
 ## DESIGN STEPS
 
 ### STEP 1:
